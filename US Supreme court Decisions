@@ -1,1 +1,5 @@
 Predicting the US Supreme Court decisions before hand using CART 
+
+To Predict if Justice Stevens will reverse(1) or affirm (0) the lower court decisions
+
+Dataset used - stevens.csv, This data comes from the Supreme Court Forecasting Project website.
